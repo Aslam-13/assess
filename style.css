@@ -1,0 +1,120 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+  overflow-x: hidden;
+  }
+ .menu{
+   display: flex;
+   align-items: center;
+      justify-content: center;
+    width: 100vw;
+    height: 5rem;
+    border-bottom: 2px solid #ccc;
+    font-size: 18px;
+  }
+  .main1{
+    margin: 4rem;
+    }
+    .main1 h1{
+      font-size: 53px;
+
+    }
+    .red{
+      color: tomato;
+      }
+      .main2{
+        margin: 4rem;
+      }
+      .main h1{
+        font-size: 32px;
+      }
+      .msg1{
+        padding-left: 3rem;
+      }
+   .menu-items .item{
+    padding-left: 1.4rem;
+  }
+ .menu-items .icon{
+   padding-left: 0.8rem;
+
+ }
+ .menu-items .icon1{
+   padding-left: 9rem;
+ }
+ .btn{
+   padding: 1rem 2rem;
+   color: #fff;
+     background-color: tomato;
+   font-weight: bold;
+   font-size: 24px;
+  }
+ .main1{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ 
+  }
+  .main2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .items3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .items1{
+    margin-left: 21rem;
+   }
+   .items2{
+     margin-right: 21rem;
+   }
+   .item{
+     padding: 1rem;
+   }
+
+   .b1{
+     padding: 0.3rem 0.8rem;
+     font-size: 19px;
+   }
+   .card{
+     padding: 1rem;
+     border: 2px solid #ccc;
+     margin: 0.5rem;
+     text-align: center;
+ 
+    
+    }
+  
+    .cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .card img{
+    width: 123px;
+    height: 123px;
+    border-radius: 50%;
+  }
+.cont{
+  display: flex;
+  justify-content: center;
+  align-items:  center;
+
+  
+
+    }
+    .c{
+      font-size: 14px;
+      font-weight: 300;
+      padding: 1rem;
+    }
+  .footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: tomato;
+   }
